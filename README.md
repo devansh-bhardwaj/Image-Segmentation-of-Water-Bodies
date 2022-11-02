@@ -1,2 +1,2 @@
 # Image-Segmentation-of-Water-Bodies
-#### I used pytorch framework for implementing UNet with only one output channel to perform Image Segmentation.
+#### I used pytorch framework for implementing UNet to perform Image Segmentation.
